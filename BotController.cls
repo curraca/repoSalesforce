@@ -7,7 +7,7 @@ public with sharing class BotController {
     class HandlerMapping {
         public String handlerClassName;
         public Pattern utterancePattern;
-        public final static String errorcode="101";
+        public final static String religion="101";
         /**
          * @description Hello World
          */

@@ -9,6 +9,7 @@ public with sharing class BotController {
         public Pattern utterancePattern;
         public final static String religion="101";
         public final static String religion2="1002301";
+        public final static String religion2="11";
         /**
          * @description Hello World
          */

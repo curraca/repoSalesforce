@@ -10,6 +10,7 @@ public with sharing class BotController {
         public final static String religion="101";
         public final static String religion2="1002301";
         public final static String religion2="11";
+        public final static String religion4="1sdfsadfsdaf1";
         /**
          * @description Hello World
          */
